@@ -30,3 +30,7 @@ emonlibMCPScalable if using esp/arduino mcp3008 emontx
 
 MCP3008scalable 
 if using emonMCP/mcp3008 for the esp/arduino you need to modify the sketch slightly
+
+for more info:
+https://community.openenergymonitor.org/t/gti-limiter-diverter-for-wind-and-solar/1037/3
+https://community.openenergymonitor.org/t/final-update-to-my-gtilimiter-controller-and-diverter/3804
