@@ -427,6 +427,9 @@ if (stat != statb) {
     if ((sV < (1024*0.55)) && (sV > (1024*0.45))) st=true;  //check its within range
     if ((millis()-start)>2000) st = true;
   }
+  sV=map(curgrid,0,255,10000,0);  //delay before pulse  
+     delayMicroseconds(sV); 
+     
     }
      pwmController.setChannelPWM(stat, curgrid << 4);
   }
