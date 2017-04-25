@@ -34,3 +34,5 @@ if using emonMCP/mcp3008 for the esp/arduino you need to modify the sketch sligh
 for more info:
 https://community.openenergymonitor.org/t/gti-limiter-diverter-for-wind-and-solar/1037/3
 https://community.openenergymonitor.org/t/final-update-to-my-gtilimiter-controller-and-diverter/3804
+
+also included are older version on the progession of the GTI limiter and diverter
